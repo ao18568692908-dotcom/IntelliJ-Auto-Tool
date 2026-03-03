@@ -3,7 +3,7 @@
 只需一键导入，自动完成 IntelliJ 配置、系统优化、环境设置，完成后自动导出。
 
 ## 支持系统
-仅支持：Windows 10 / Windows 11
+支持：Windows 7  到 Windows 11
 
 ## 功能介绍
 - 一键自动配置 IntelliJ IDEA
